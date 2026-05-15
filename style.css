@@ -1,0 +1,25 @@
+body{
+    background-color: lightyellow;
+    font-family: Verdana;
+    margin: 20px;
+}
+
+/* External CSS Heading */
+
+.external-heading{
+    color: purple;
+    text-decoration: underline;
+    text-align: center;
+}
+
+/* External CSS Paragraph */
+
+.external-paragraph{
+    color: darkblue;
+    font-size: 17px;
+    line-height: 1.7;
+    background-color: white;
+    padding: 12px;
+    border: 2px solid purple;
+    border-radius: 8px;
+}
